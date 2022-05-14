@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252225547905",
+    "firebase_url": "https://pushnoti-c3683-default-rtdb.firebaseio.com",
+    "project_id": "pushnoti-c3683",
+    "storage_bucket": "pushnoti-c3683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252225547905:android:5c581104eef9aa06912780",
+        "android_client_info": {
+          "package_name": "com.example.notificationsexa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252225547905-pgdl2rpoa3gfa6ggtlgub5r7vrcobkc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbv2ZOtSlC3N3kbhYtF3rxraiA-a1UBLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252225547905-pgdl2rpoa3gfa6ggtlgub5r7vrcobkc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
